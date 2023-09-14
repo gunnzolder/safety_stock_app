@@ -1,0 +1,17 @@
+
+{
+  "name": "safety_stock_combined_app",
+  "version": "1.0.0",
+  "description": "A Next.js application to calculate safety stock based on daily demand and supply history.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
